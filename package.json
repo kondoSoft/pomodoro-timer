@@ -1,0 +1,16 @@
+{
+  "name": "pom",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "15.3.2",
+    "react-native": "0.34.1",
+    "react-native-admob": "^1.1.5",
+    "react-native-keep-awake": "^1.0.7",
+    "react-native-restart": "0.0.1",
+    "react-native-simple-sound": "^1.0.0"
+  }
+}
